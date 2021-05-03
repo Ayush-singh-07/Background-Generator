@@ -10,7 +10,7 @@ function gradient(){
 	 +", "
 	 +color2.value
 	 +")";
-	 h3.textContent=body.style.background + " ";
+	 h3.textContent=body.style.background + ";";
 }
 
 color1.addEventListener("input",function(){
