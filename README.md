@@ -1,3 +1,11 @@
 # Background-generator
-It is a Background generator which also give you a look of background and current css background as (linear-gradient(to right, rgb(50, 205, 50), rgb(255, 0, 0))
+
+Background generator is Webpage gives you diffrent background colors for your webpage,
+So you can choose your Favourite color combinations and then use it,
+It shows up with a code snippet which you can use.  
+
+CURRENT CSS BACKGROUND
+linear-gradient(to right, rgb(107, 255, 253), rgb(255, 133, 133));
+
+Go try it
 https://ayush-singh-07.github.io/Background-generator/
