@@ -1,6 +1,6 @@
 # Background-generator
 
-Background generator is Webpage gives you diffrent background colors for your webpage,
+Background generator gives you diffrent background colors for your webpage on Your on choices,
 So you can choose your Favourite color combinations and then use it,
 It shows up with a code snippet which you can use.  
 
