@@ -5,7 +5,7 @@ So you can choose your Favourite color combinations and then use it,
 It shows up with a code snippet which you can use.  
 
 CURRENT CSS BACKGROUND
-linear-gradient(to right, rgb(107, 255, 253), rgb(255, 133, 133));
+linear-gradient(to right, rgb(255, 0, 0), rgb(225, 255, 0));
 
 Go try it
 https://ayush-singh-07.github.io/Background-generator/
